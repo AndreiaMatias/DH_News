@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700&display=swap');
+
+
+h1{
+    font-family: 'Dosis';
+    font-weight: bold;
+    color: red;
+}
+
+h2{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+p, li{
+    font-family: Arial;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.texto{
+    margin: auto;
+    width: 50%;
+}
+
+.data_postagem{
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+img{
+    width: 100%;
+}
+
+
+.rodape{
+    margin: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.redes{
+    height: 50px;
+    width: 50px;
+    padding-right: 15px;
+}
+
+
