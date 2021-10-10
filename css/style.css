@@ -34,14 +34,12 @@ img{
     width: 100%;
 }
 
-
 .rodape{
     margin: auto;
     width: 50%;
     display: flex;
     justify-content: center;
 }
-
 
 .redes{
     height: 50px;
